@@ -11,9 +11,9 @@ Here the project is a research about how to make a classification between indoor
 Collect data of different scenes, all including indoor & outdoor.
 Training data was collected by one person, with testing data collected by another, which could reduce overfitting.
 And the main features about the data contain 12 features, such as:
-1) number: how many numbers of satellites the mobile phone can find
-2) SNR (sigal noise ratio): the total of every satellite's snr.
-3) ele: the total of every satellite's  elevation.
+(1) number: how many numbers of satellites the mobile phone can find
+(2) SNR (sigal noise ratio): the total of every satellite's snr.
+(3) ele: the total of every satellite's  elevation.
 etc. 
 
 4. models:
