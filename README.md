@@ -20,10 +20,10 @@ etc.
 Then using different models to learn and predict, such as Random forest, SVM, logistic regression, & neural networks.
 
 5. files: 
-1) GPS_test01.ipynb, the code icluding how to parse raw data as CSV strutured training & testing data, model to train & test, visualization of analysis, etc.
-2) gps_features_analysis.pdf, the analysis report.
-3) gps_models_performances.pdf, the performance of different models
-4) trained_nn_models, the list of trained Neural Network models that have relatively good performance with accuracies all above 85%.
+(1) GPS_test01.ipynb, the code icluding how to parse raw data as CSV strutured training & testing data, model to train & test, visualization of analysis, etc.
+(2) gps_features_analysis.pdf, the analysis report.
+(3) gps_models_performances.pdf, the performance of different models
+(4) trained_nn_models, the list of trained Neural Network models that have relatively good performance with accuracies all above 85%.
 
 6. more file will be uploaded, such as the raw data, CSV training and testing data, and some necessary data when parsing the raw.
 
